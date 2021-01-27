@@ -1,0 +1,114 @@
+C:\Users\Watashi_no_Sekai\Desktop\shri\apms(app)\apms(app)\obj\Debug\apms(app).csprojResolveAssemblyReference.cache
+C:\Users\Watashi_no_Sekai\Desktop\shri\apms(app)\apms(app)\bin\roslyn\csc.exe
+C:\Users\Watashi_no_Sekai\Desktop\shri\apms(app)\apms(app)\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Watashi_no_Sekai\Desktop\shri\apms(app)\apms(app)\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Watashi_no_Sekai\Desktop\shri\apms(app)\apms(app)\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Watashi_no_Sekai\Desktop\shri\apms(app)\apms(app)\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Watashi_no_Sekai\Desktop\shri\apms(app)\apms(app)\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Watashi_no_Sekai\Desktop\shri\apms(app)\apms(app)\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Watashi_no_Sekai\Desktop\shri\apms(app)\apms(app)\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Watashi_no_Sekai\Desktop\shri\apms(app)\apms(app)\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Watashi_no_Sekai\Desktop\shri\apms(app)\apms(app)\bin\roslyn\vbc.exe
+C:\Users\Watashi_no_Sekai\Desktop\shri\apms(app)\apms(app)\bin\roslyn\VBCSCompiler.exe
+C:\Users\Watashi_no_Sekai\Desktop\shri\apms(app)\apms(app)\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Watashi_no_Sekai\Desktop\shri\apms(app)\apms(app)\bin\apms(app).dll.config
+C:\Users\Watashi_no_Sekai\Desktop\shri\apms(app)\apms(app)\bin\apms(app).dll
+C:\Users\Watashi_no_Sekai\Desktop\shri\apms(app)\apms(app)\bin\apms(app).pdb
+C:\Users\Watashi_no_Sekai\Desktop\shri\apms(app)\apms(app)\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Watashi_no_Sekai\Desktop\shri\apms(app)\apms(app)\bin\MySql.Data.dll
+C:\Users\Watashi_no_Sekai\Desktop\shri\apms(app)\apms(app)\bin\Google.Protobuf.dll
+C:\Users\Watashi_no_Sekai\Desktop\shri\apms(app)\apms(app)\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Watashi_no_Sekai\Desktop\shri\apms(app)\apms(app)\bin\MySql.Data.xml
+C:\Users\Watashi_no_Sekai\Desktop\shri\apms(app)\apms(app)\obj\Debug\apms(app).dll
+C:\Users\Watashi_no_Sekai\Desktop\shri\apms(app)\apms(app)\obj\Debug\apms(app).pdb
+C:\Users\Watashi_no_Sekai\Desktop\apms(app)\apms(app)\bin\roslyn\csc.exe
+C:\Users\Watashi_no_Sekai\Desktop\apms(app)\apms(app)\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Watashi_no_Sekai\Desktop\apms(app)\apms(app)\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Watashi_no_Sekai\Desktop\apms(app)\apms(app)\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Watashi_no_Sekai\Desktop\apms(app)\apms(app)\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Watashi_no_Sekai\Desktop\apms(app)\apms(app)\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Watashi_no_Sekai\Desktop\apms(app)\apms(app)\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Watashi_no_Sekai\Desktop\apms(app)\apms(app)\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Watashi_no_Sekai\Desktop\apms(app)\apms(app)\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Watashi_no_Sekai\Desktop\apms(app)\apms(app)\bin\roslyn\vbc.exe
+C:\Users\Watashi_no_Sekai\Desktop\apms(app)\apms(app)\bin\roslyn\VBCSCompiler.exe
+C:\Users\Watashi_no_Sekai\Desktop\apms(app)\apms(app)\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Watashi_no_Sekai\Desktop\apms(app)\apms(app)\bin\apms(app).dll.config
+C:\Users\Watashi_no_Sekai\Desktop\apms(app)\apms(app)\bin\apms(app).dll
+C:\Users\Watashi_no_Sekai\Desktop\apms(app)\apms(app)\bin\apms(app).pdb
+C:\Users\Watashi_no_Sekai\Desktop\apms(app)\apms(app)\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Watashi_no_Sekai\Desktop\apms(app)\apms(app)\bin\MySql.Data.dll
+C:\Users\Watashi_no_Sekai\Desktop\apms(app)\apms(app)\bin\Google.Protobuf.dll
+C:\Users\Watashi_no_Sekai\Desktop\apms(app)\apms(app)\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Watashi_no_Sekai\Desktop\apms(app)\apms(app)\bin\MySql.Data.xml
+C:\Users\Watashi_no_Sekai\Desktop\apms(app)\apms(app)\obj\Debug\apms(app).dll
+C:\Users\Watashi_no_Sekai\Desktop\apms(app)\apms(app)\obj\Debug\apms(app).pdb
+C:\Users\Watashi_no_Sekai\Desktop\apms(app)\apms(app)\obj\Debug\apms(app).csprojResolveAssemblyReference.cache
+D:\ADITYA JADHAVPATIL\TECSE SEM 6 PART 2\Project\apms(app)\apms(app)\bin\roslyn\csc.exe
+D:\ADITYA JADHAVPATIL\TECSE SEM 6 PART 2\Project\apms(app)\apms(app)\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\ADITYA JADHAVPATIL\TECSE SEM 6 PART 2\Project\apms(app)\apms(app)\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\ADITYA JADHAVPATIL\TECSE SEM 6 PART 2\Project\apms(app)\apms(app)\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\ADITYA JADHAVPATIL\TECSE SEM 6 PART 2\Project\apms(app)\apms(app)\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\ADITYA JADHAVPATIL\TECSE SEM 6 PART 2\Project\apms(app)\apms(app)\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\ADITYA JADHAVPATIL\TECSE SEM 6 PART 2\Project\apms(app)\apms(app)\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\ADITYA JADHAVPATIL\TECSE SEM 6 PART 2\Project\apms(app)\apms(app)\bin\roslyn\System.Collections.Immutable.dll
+D:\ADITYA JADHAVPATIL\TECSE SEM 6 PART 2\Project\apms(app)\apms(app)\bin\roslyn\System.Reflection.Metadata.dll
+D:\ADITYA JADHAVPATIL\TECSE SEM 6 PART 2\Project\apms(app)\apms(app)\bin\roslyn\vbc.exe
+D:\ADITYA JADHAVPATIL\TECSE SEM 6 PART 2\Project\apms(app)\apms(app)\bin\roslyn\VBCSCompiler.exe
+D:\ADITYA JADHAVPATIL\TECSE SEM 6 PART 2\Project\apms(app)\apms(app)\bin\roslyn\VBCSCompiler.exe.config
+D:\ADITYA JADHAVPATIL\TECSE SEM 6 PART 2\Project\apms(app)\apms(app)\bin\apms(app).dll.config
+D:\ADITYA JADHAVPATIL\TECSE SEM 6 PART 2\Project\apms(app)\apms(app)\bin\apms(app).dll
+D:\ADITYA JADHAVPATIL\TECSE SEM 6 PART 2\Project\apms(app)\apms(app)\bin\apms(app).pdb
+D:\ADITYA JADHAVPATIL\TECSE SEM 6 PART 2\Project\apms(app)\apms(app)\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\ADITYA JADHAVPATIL\TECSE SEM 6 PART 2\Project\apms(app)\apms(app)\bin\Google.Protobuf.dll
+D:\ADITYA JADHAVPATIL\TECSE SEM 6 PART 2\Project\apms(app)\apms(app)\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\ADITYA JADHAVPATIL\TECSE SEM 6 PART 2\Project\apms(app)\apms(app)\bin\MySql.Data.xml
+D:\ADITYA JADHAVPATIL\TECSE SEM 6 PART 2\Project\apms(app)\apms(app)\obj\Debug\apms(app).csprojResolveAssemblyReference.cache
+D:\ADITYA JADHAVPATIL\TECSE SEM 6 PART 2\Project\apms(app)\apms(app)\obj\Debug\apms(app).dll
+D:\ADITYA JADHAVPATIL\TECSE SEM 6 PART 2\Project\apms(app)\apms(app)\obj\Debug\apms(app).pdb
+F:\apms(app)\apms(app)\apms(app)\obj\Debug\apms(app).csprojResolveAssemblyReference.cache
+F:\apms(app)\apms(app)\apms(app)\obj\Debug\apms(app).dll
+F:\apms(app)\apms(app)\apms(app)\obj\Debug\apms(app).pdb
+F:\apms(app)\apms(app)\apms(app)\bin\roslyn\csc.exe
+F:\apms(app)\apms(app)\apms(app)\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+F:\apms(app)\apms(app)\apms(app)\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+F:\apms(app)\apms(app)\apms(app)\bin\roslyn\Microsoft.CodeAnalysis.dll
+F:\apms(app)\apms(app)\apms(app)\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+F:\apms(app)\apms(app)\apms(app)\bin\roslyn\Microsoft.CSharp.Core.targets
+F:\apms(app)\apms(app)\apms(app)\bin\roslyn\Microsoft.VisualBasic.Core.targets
+F:\apms(app)\apms(app)\apms(app)\bin\roslyn\System.Collections.Immutable.dll
+F:\apms(app)\apms(app)\apms(app)\bin\roslyn\System.Reflection.Metadata.dll
+F:\apms(app)\apms(app)\apms(app)\bin\roslyn\vbc.exe
+F:\apms(app)\apms(app)\apms(app)\bin\roslyn\VBCSCompiler.exe
+F:\apms(app)\apms(app)\apms(app)\bin\roslyn\VBCSCompiler.exe.config
+F:\apms(app)\apms(app)\apms(app)\bin\apms(app).dll.config
+F:\apms(app)\apms(app)\apms(app)\bin\apms(app).dll
+F:\apms(app)\apms(app)\apms(app)\bin\apms(app).pdb
+F:\apms(app)\apms(app)\apms(app)\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+F:\apms(app)\apms(app)\apms(app)\bin\MySql.Data.dll
+F:\apms(app)\apms(app)\apms(app)\bin\Google.Protobuf.dll
+F:\apms(app)\apms(app)\apms(app)\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+F:\apms(app)\apms(app)\apms(app)\bin\MySql.Data.xml
+E:\apms(app)\apms(app)\apms(app)\bin\roslyn\csc.exe
+E:\apms(app)\apms(app)\apms(app)\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+E:\apms(app)\apms(app)\apms(app)\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+E:\apms(app)\apms(app)\apms(app)\bin\roslyn\Microsoft.CodeAnalysis.dll
+E:\apms(app)\apms(app)\apms(app)\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+E:\apms(app)\apms(app)\apms(app)\bin\roslyn\Microsoft.CSharp.Core.targets
+E:\apms(app)\apms(app)\apms(app)\bin\roslyn\Microsoft.VisualBasic.Core.targets
+E:\apms(app)\apms(app)\apms(app)\bin\roslyn\System.Collections.Immutable.dll
+E:\apms(app)\apms(app)\apms(app)\bin\roslyn\System.Reflection.Metadata.dll
+E:\apms(app)\apms(app)\apms(app)\bin\roslyn\vbc.exe
+E:\apms(app)\apms(app)\apms(app)\bin\roslyn\VBCSCompiler.exe
+E:\apms(app)\apms(app)\apms(app)\bin\roslyn\VBCSCompiler.exe.config
+E:\apms(app)\apms(app)\apms(app)\bin\apms(app).dll.config
+E:\apms(app)\apms(app)\apms(app)\bin\apms(app).dll
+E:\apms(app)\apms(app)\apms(app)\bin\apms(app).pdb
+E:\apms(app)\apms(app)\apms(app)\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+E:\apms(app)\apms(app)\apms(app)\bin\Google.Protobuf.dll
+E:\apms(app)\apms(app)\apms(app)\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+E:\apms(app)\apms(app)\apms(app)\bin\MySql.Data.xml
+E:\apms(app)\apms(app)\apms(app)\obj\Debug\apms(app).csprojResolveAssemblyReference.cache
+E:\apms(app)\apms(app)\apms(app)\obj\Debug\apms(app).dll
+E:\apms(app)\apms(app)\apms(app)\obj\Debug\apms(app).pdb
+E:\apms(app)\apms(app)\apms(app)\bin\MySql.Data.dll

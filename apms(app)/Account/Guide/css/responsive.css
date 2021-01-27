@@ -1,0 +1,37 @@
+/* large device(desk and lap)*/
+@media(min-width:1200px){
+    /*OK*/
+    }
+}
+
+/* medium device tabletes and med desk*/
+
+@media(min-width: 992px) and (max-width: 1199px){
+ 
+}
+
+/* small devices   */
+
+@media(min-width: 768px) and (max-width: 991px){
+    
+    }
+}
+
+/*extra small devices   */
+
+@media(max-width: 767px){
+    
+    }
+}
+/*extra small devices   */
+
+@media(max-width: 480px){
+    
+    }
+}
+/*extra small devices   */
+
+@media(max-width: 320px){
+   
+    }
+}

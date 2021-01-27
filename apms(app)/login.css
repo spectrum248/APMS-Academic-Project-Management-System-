@@ -1,0 +1,17 @@
+body{
+    font-family: Tahoma,Geneva,sans-serif;
+    color: #fff;
+   /* background: url();*/
+    background: #34c6d3;
+    background-size: cover;
+}
+
+.signin{
+    background: rgba(44,62,80,0.7);
+    padding: 40px;
+    width: 250px;
+    margin: auto;
+    margin-top: 80px;
+    height: 400px;
+    margin-left: 180px;
+}

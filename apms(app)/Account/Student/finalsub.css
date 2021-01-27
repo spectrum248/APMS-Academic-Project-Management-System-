@@ -1,0 +1,121 @@
+body {
+    font-family: Tahoma, Geneva, sans-serif;
+    color: #fff;
+    background:url(s.jpg);
+    background-size: cover;
+    height: 575px;
+}
+
+.signup
+{
+    background:rgba(44, 62, 80, 0.7);
+    padding:40px;
+	width:350px;
+	margin-top:80px;
+	height:600px;
+	margin-left:180px;
+	margin-top:90px;
+    margin-left: auto;
+    margin-right: auto;
+    margin-bottom: 0;
+}
+form
+{
+    width: 265px;
+    text-align: center;
+    height: 358px;
+}
+
+/*input{
+    width: 240px;
+    text-align: center;
+    background: transparent;
+    border: none;
+    border-bottom: 1px solid #fff;
+    font-family: 'Play', sans-serif;
+    font-size: 16px;
+    font-weight: 200px;
+    padding: 10px 0;
+    transition: border 0.5s;
+    outline: none;
+    color: #fff;
+}*/
+input[type=text],input[type=password]{
+    text-align:center;
+width:80%;
+height:10%;
+margin-bottom:1%;
+border:0;
+background-color:transparent;
+border-bottom:1px solid #fff;
+font-family: 'Play', sans-serif;
+    font-size: 16px;
+    font-weight: 200px;
+    padding: 10px 0;
+    transition: border 0.5s;
+    outline: none;
+    color: #fff;
+}
+input[placeholder]{
+   color:white;
+    opacity: 0.8;
+    font-family:'Crete Round';
+}
+
+.radio{
+    border-style: none;
+    border-color: inherit;
+    border-width: 0;
+    display:inline-block;
+    position:relative;
+    cursor:pointer;
+    user-select:none;
+         text-align:center;
+    width:80%;
+    height:10%;
+    margin-bottom:3%;
+    background-color:transparent;
+
+    font-family: 'Play', sans-serif;
+    font-size: 16px;
+    font-weight: 200px;
+    padding: 10px 0;
+    transition: border 0.5s;
+    outline: none;
+    color: #fff;
+   
+}
+.sign
+{
+    margin-top:7%;
+    border: none;
+    width: 190px;
+    background: white;
+    color: #000;
+    font-size: 16px;
+    line-height: 25px;
+    padding: 10px 0;
+    border-radius: 15px;
+    cursor: pointer;
+    margin-bottom:2%;
+}
+.sign input[type=button]:hover
+{
+    color: yellow;
+    background-color: black;
+}
+
+
+.drop{
+    margin-top:7%;
+    border: none;
+    width: 150px;
+    background: white;
+    color: #000;
+    font-size: 16px;
+    line-height: 20px;
+    padding: 10px 0;
+    border-radius: 0px;
+    cursor: pointer;
+    margin-bottom:2%;
+}

@@ -1,0 +1,26 @@
+<nav class="navbar navbar-dark bg-dark fixed-top" role="navigation">
+        <div class="container-fluid">
+            <div class="nav-wraper">
+                <div class="navbar-header">
+                    <a class="navbar-brand" href="#home">
+                        <img src="">
+                    </a>
+                </div>
+                <div id="menu">
+                    <ul class="navbar navbar-nav">
+                        <li><a href="#home">Home</a></li>
+                        <li><a href="">Services</a></li>
+                        <li><a href="">About</a></li>
+                        <li><a href="">Work</a></li>
+                        <li><a href="">Team</a></li>
+                        <li><a href="">Testi</a></li>
+                        <li><a href="">Pricing</a></li>
+                        <li><a href="">Stats</a></li>
+                        <li><a href="">Clinets</a></li>
+                        <li><a href="">Contact</a></li>
+                    </ul>
+                </div>
+            </div>
+        </div>
+        
+    </nav>
